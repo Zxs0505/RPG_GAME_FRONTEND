@@ -1,0 +1,51 @@
+.rarity-common {
+    color: #ffffff;
+  }
+  
+  .rarity-uncommon {
+    color: #22c55e;
+  }
+  
+  .rarity-rare {
+    color: #3b82f6;
+  }
+  
+  .rarity-epic {
+    color: #a855f7;
+  }
+  
+  .rarity-legendary {
+    color: #f59e0b;
+    text-shadow: 0 0 8px rgba(245, 158, 11, 0.8);
+  }
+  
+  .rarity-mythic {
+    color: #ef4444;
+    text-shadow: 0 0 8px rgba(239, 68, 68, 0.8);
+  }
+
+  .border-common {
+    outline: 2px solid #bfbfbf;
+  }
+  
+  .border-uncommon {
+    outline: 2px solid #22c55e;
+  }
+  
+  .border-rare {
+    outline: 2px solid #3b82f6;
+  }
+  
+  .border-epic {
+    outline: 2px solid #a855f7;
+  }
+  
+  .border-legendary {
+    outline: 2px solid #f59e0b;
+    box-shadow: 0 0 15px rgba(245, 158, 11, .5);
+  }
+  
+  .border-mythic {
+    outline: 2px solid #ef4444;
+    box-shadow: 0 0 18px rgba(239, 68, 68, .6);
+  }
